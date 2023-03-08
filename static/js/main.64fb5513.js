@@ -18668,7 +18668,7 @@
                     style: { position: "relative" },
                     children: [
                         (0, it.jsx)(Ql.Img, {
-                            src: "/imgs/".concat(i),
+                            src: "./imgs/".concat(i),
                             variant: "top",
                             height: "200px",
                             style: { objectFit: "cover" },
